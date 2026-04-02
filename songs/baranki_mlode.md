@@ -1,15 +1,15 @@
 # Oto są baranki młode
 
-> Oto są baranki młode
-Oto ci, co zawołali: Alleluja
-Dopiero przyszli do zdroju
-Światłością się napełnili
-Alleluja, alleluja
+> `C`O`D`to `G`są `D`baranki `C`mł`D`o`e`de
+`C`O`D`to `G`ci, co zawo`C`łali: A`D`lleluja
+`G`Dopiero przyszli do zdroj`D`u
+`G`Światłością się napełni`D`li
+`G`Al`D`lelu`e`ja, `G`alle`D`lu`G`ja
 
-1. Na Baranka Pańskich godach
-W szat świątecznych czystej bieli
-Po krwawego morza wodach
-Nieśmy Panu pieśń weseli
+1. `e`Na Ba`C`ranka `D`Pańskich `e`godach
+W szat świą`C`tecznych `D`czystej `e`bieli
+`a`Po krwawego `e`morza wodach
+`D`Nieśmy Panu `h7`pieśń wese`e`li
 
 > Oto są baranki młode
 Oto ci, co zawołali: Alleluja

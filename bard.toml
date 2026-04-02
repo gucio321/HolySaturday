@@ -1,21 +1,24 @@
 version = 2
 
 songs = [
+    "o_jezu_w_chostii_utajony.md",
+    "baranki_mlode.md",
     "chlebie_najcichszy.md",
+    "przychodzisz_panie.md",
     "niechaj_zstapi_duch_twoj.md",
-    "otrzyjcie_juz_lzy.md",
+    "nie_madrosc_swiata_tego.md",
+    "jezus_zwyciezyl.md",
+    "raduje_sie_dusza.md",
+    "psalm_148.md",
+    "kantyk_mojzesza.md",
     "zmartwychwstal_pan.md",
+    "zwyciezca_smierci.md",
+
+
+    "otrzyjcie_juz_lzy.md",
     "godzien.md",
     "chrystus_zmartwychwstan_jest.md",
-    "jezus_zwyciezyl.md",
-    "psalm_148.md",
-    "baranki_mlode.md",
-    "raduje_sie_dusza.md",
-    "zwyciezca_smierci.md",
-    "przychodzisz_panie.md",
     "matko_ktora_nas_znasz.md",
-    "kantyk_mojzesza.md",
-
     "dodatkowe.md",
     "nasz_bog.md",
     "panie_gdy_tone.md",
@@ -31,7 +34,7 @@ file = "songbook.pdf"
 file = "songbook.html"
 
 [book]
-title = "Wielka Sobota 2025"
+title = "Wielka Sobota 2026"
 subtitle = "Adoracja"
 chorus_label = "Ref"
-title_note = "Lista pieśni na adorację w Wielką Sobotę ad 2025"
+title_note = "Lista pieśni na adorację w Wielką Sobotę ad 2026"
