@@ -1,28 +1,28 @@
 version = 2
 
 songs = [
-    "o_jezu_w_chostii_utajony.md",
-    "baranki_mlode.md",
     "chlebie_najcichszy.md",
-    "przychodzisz_panie.md",
+    "o_jezu_w_chostii_utajony.md",
     "niechaj_zstapi_duch_twoj.md",
-    "nie_madrosc_swiata_tego.md",
-    "jezus_zwyciezyl.md",
-    "raduje_sie_dusza.md",
-    "psalm_148.md",
-    "kantyk_mojzesza.md",
-    "zmartwychwstal_pan.md",
-    "zwyciezca_smierci.md",
-
-
     "otrzyjcie_juz_lzy.md",
-    "godzien.md",
     "chrystus_zmartwychwstan_jest.md",
-    "matko_ktora_nas_znasz.md",
+    "zmartwychwstal_pan.md",
+    "przychodzisz_panie.md",
+    "baranki_mlode.md",
+    "zaufalem_panu.md",
+    "jezus_zwyciezyl.md",
+    "zwyciezca_smierci.md",
+    "psalm_148.md",
+    "raduje_sie_dusza.md",
+    "kantyk_mojzesza.md",
+    "nie_madrosc_swiata_tego.md",
+
     "dodatkowe.md",
+
+    "godzien.md",
+    "matko_ktora_nas_znasz.md",
     "nasz_bog.md",
     "panie_gdy_tone.md",
-    "zaufalem_panu.md",
 ]
 
 notation = "english"
