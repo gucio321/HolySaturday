@@ -18,6 +18,6 @@ Alleluja! _[chłopaki]_
 Alleluja! _[dziewczyny]_
 Alleluja! _[chłopaki]_
 
-_[w/w śpiewamy 3 razy, na konice:]_
+_[w/w x3, na konice:]_
 Alleluj, Alleluja!
 

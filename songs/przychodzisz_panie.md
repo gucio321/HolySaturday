@@ -7,4 +7,4 @@ ze śladami męki.
 Ty jesteś z nami,
 poślij do nas Ducha.
 Panie nasz i Boże,
-uzdrów nasze życie.
+uzdrów nasze życie. /x3

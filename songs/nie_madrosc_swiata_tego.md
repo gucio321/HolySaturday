@@ -35,3 +35,4 @@ Królestwa Jego - niechaj przyjdzie - przyzywajcie!
 Lecz Pana ukrzyżowanego
 Głosimy aż przyjdzie znów /x3
 
+Marana tha! /x4
