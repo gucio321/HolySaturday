@@ -29,6 +29,7 @@ notation = "english"
 
 [[output]]
 file = "songbook.pdf"
+template = "pdf.hbs"
 
 [[output]]
 file = "songbook.html"
