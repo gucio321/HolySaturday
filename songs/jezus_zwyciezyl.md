@@ -17,9 +17,7 @@ Alleluja! _[dziewczyny]_
 Alleluja! _[chłopaki]_
 Alleluja! _[dziewczyny]_
 Alleluja! _[chłopaki]_
-Alleluj, Alleluja! _[wszyscy]_
 
-2. Jezus zmartwychwstał, to wykonało się!
-Szatan pokonany, Jezus złamał śmierci moc.
-Jezus jest Panem, o, alleluja!
-Po wieczne czasy Królem królów jest.
+_[w/w śpiewamy 3 razy, na konice:]_
+Alleluj, Alleluja!
+
