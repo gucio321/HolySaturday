@@ -6,6 +6,7 @@ songs = [
     "niechaj_zstapi_duch_twoj.md",
     "otrzyjcie_juz_lzy.md",
     "chrystus_zmartwychwstan_jest.md",
+    "maciek.md",
     "zmartwychwstal_pan.md",
     "przychodzisz_panie.md",
     "zaufalem_panu.md",
@@ -30,6 +31,7 @@ notation = "english"
 [[output]]
 file = "songbook.pdf"
 template = "pdf.hbs"
+font_size = 80
 
 [[output]]
 file = "songbook.html"
